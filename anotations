@@ -1,0 +1,30 @@
+/**
+*Métodos HTTP:
+*
+* GET: Buscar uma informaçãp do back-end
+* POST: Criar uma informação no back-end
+* PUT: Alterar uma inoformação no back-end
+* DELETE: Deletar uma inofrmação no back-end
+*/
+
+*Tipos de parâmetros:
+*
+* Query Params: Parâmetros nomeados na rota após "?" (Filtros, paginação)
+* Router Params: Parâmetros utilizados para identificar recursos
+* Request Body: Corpo da requisição, utilizado para criar ou alterar recursos. (/users) ex:.
+
+ENTIDADES
+*
+*ONG
+*CASO (INCIDENT)
+
+FUNCIONALIDADES
+*
+*LOGIN DE ONG
+*LOGOUT DE ONG
+*CADASTRO DE ONG
+*CADASTRAR NOVOS CASOS
+*DELETAR CASOS
+*LISTAR CASOS ESPECIFICOS DE UMA ONG
+**LISTAR TODOS OS CASOS
+**ENTRAR EM CONTATO COM A ONG
